@@ -2,9 +2,10 @@
 O projeto Fokus é baseado no sistema de aprendizado denominado Pomodoro, em há quatro ciclos em que três dele você se concentra por 25min e descansa por 05min e o seu ciclo final é um descanso mais longo de 15min.
 
 <!--ts-->
-   * [Sobre](#Sobre)
+   * [Sobre](#Sobre): 
      Projeto cujo objetivo é temporizar ao usuário a técnica denominada Pomodoro.
-      * [Pre Requisitos](#pre-requisitos)
+     
+   * [Pre Requisitos](#pre-requisitos): 
         Não há pré-requisitos, basta ter acesso a internet para usar.
 <!--te-->
 
